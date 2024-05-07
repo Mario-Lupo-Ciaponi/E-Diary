@@ -8,3 +8,10 @@ The grading scale is based on the Bulgarian Grading System.
 - Good(3.50 - 4.49)
 - Very Good(4.50 - 5.49)
 - Excellent(5.50 - 6.00)
+
+## Operations:
+After validating the email, you can do one of the following operations:
+- Show subjects;
+- Add subjects;
+- Add grade;
+- Quit.
